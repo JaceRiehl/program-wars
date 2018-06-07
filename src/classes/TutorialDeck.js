@@ -72,11 +72,11 @@ const cardDeck = [
   {type:'I', cardValue: 1, imgSrc: '/static/cardImg/I1.png', howMany: instruction1},
   {type:'ANTIVIRUS', cardValue: 0, imgSrc: '/static/cardImg/AntiVirus.png', howMany: antiVirus},
   {type:'I', cardValue: 1, imgSrc: '/static/cardImg/I1.png', howMany: instruction1},
-  {type:'VIRUS', cardValue: 0, imgSrc: '/static/cardImg/Virus.png', howMany: virus},
+  {type:'VIRUS', cardValue: 0, imgSrc: '/static/cardImg/Malware.png', howMany: virus},
   {type:'I', cardValue: 1, imgSrc: '/static/cardImg/I1.png', howMany: instruction1},
   {type:'FIREWALL', cardValue: 0, imgSrc: '/static/cardImg/Firewall.png', howMany: firewall},
   {type:'I', cardValue: 1, imgSrc: '/static/cardImg/I1.png', howMany: instruction1},
-  {type:'H', cardValue: 0, imgSrc: '/static/cardImg/H.png', howMany: hack},
+  {type:'H', cardValue: 0, imgSrc: '/static/cardImg/Hack.png', howMany: hack},
   {type:'V', cardValue: 3, imgSrc: '/static/cardImg/V3.png', howMany: variable3},
   {type:'V', cardValue: 5, imgSrc: '/static/cardImg/V5.png', howMany: variable5},
 ];

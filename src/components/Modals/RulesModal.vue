@@ -120,7 +120,7 @@
                     <p style="text-align: center; font-size: 24px;"><b>Attack Cards</b></p>
                     <li><h5>Hack</h5>
                       <div>
-                        <img src="../../../static/cardImg/H.png" alt="Instruction 1 Card" class="cardImage">
+                        <img src="../../../static/cardImg/Hack.png" alt="Instruction 1 Card" class="cardImage">
                       </div>
 
                       <div>
@@ -137,21 +137,21 @@
 
                       </div>
                     </li>
-                    <li><h5>Virus</h5>
+                    <li><h5>Malware</h5>
                       <div>
-                        <img src="../../../static/cardImg/Virus.png" alt="Instruction 1 Card" class="cardImage">
+                        <img src="../../../static/cardImg/Malware.png" alt="Instruction 1 Card" class="cardImage">
                       </div>
 
                       <div>
                         <ol>
-                          <li>Virus cards let you infect another player's program, cutting their score in half.</li>
-                          <li>When you play a Virus card, you choose which player will be infected. </li>
+                          <li>Malware cards let you infect another player's program, cutting their score in half.</li>
+                          <li>When you play a Malware card, you choose which player will be infected. </li>
                           <li>You cannot infect someone with a AntiVirus card played.</li>
                         </ol>
                         <b>Relation to computer programming:</b>
-                        Sometimes a mean or mischievous computer programmer known as a <i>hacker</i> will send you a computer program called a <i>virus</i>
+                        Sometimes a mean or mischievous computer programmer known as a <i>hacker</i> will send you a computer program called a <i>malware</i>
                         to have your computer do something it shouldn't, making your computer slower.
-                        Overclocking your computer increases the rate at which it runs programs, which is why Overclocking cards counter Virus cards in the game.
+                        Overclocking your computer increases the rate at which it runs programs, which is why Overclocking cards counter Malware cards in the game.
                       </div>
                     </li>
                     <li><h5>Power Outage</h5>
@@ -221,10 +221,10 @@
                     </div>
                     <div>
                       <ol>
-                        <li>AntiVirus cards protect you from all viruses.</li>
+                        <li>AntiVirus cards protect you from all malware.</li>
                       </ol>
                       <b>Relation to computer programming:</b>
-                      AntiViruses in general, protect you from viruses, making sure that your programs will run quickly.
+                      AntiViruses in general, protect you from malware, making sure that your programs will run quickly.
                     </div>
                   </li>
 
@@ -270,9 +270,9 @@
                     <li><h3>Defensive Programmer - 15 points</h3></li>
                     <p>Defensive Programmer is a bonus for playing all 3 safety cards</p>
                     <li><h3>Clean System - 10 points</h3></li>
-                    <p>Clean System is a bonus for not having an active virus by the end of the game.</p>
+                    <p>Clean System is a bonus for not having active malware by the end of the game.</p>
                     <li><h3>Cool System - 10 points</h3></li>
-                    <p>If you don't play any overclocking cards, without already having a virus, then you will be given a bonus 10 points.</p>
+                    <p>If you don't play any overclocking cards, without already having a malware, then you will be given a bonus 10 points.</p>
                     <li><h3>Complete Program - 10 points</h3></li>
                     <p>If you have a complete program on either path you'll get a bonus 10 points to be rewarded for your success.</p>
                     <li><h3>Programming Practices Bonuses</h3></li>
